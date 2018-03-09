@@ -1,5 +1,5 @@
 require "everlog/version"
+require "everlog/log"
 
 module Everlog
-  # Your code goes here...
 end
